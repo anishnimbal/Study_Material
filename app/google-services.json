@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "919203189828",
+    "firebase_url": "https://pdf-container-default-rtdb.firebaseio.com",
+    "project_id": "pdf-container",
+    "storage_bucket": "pdf-container.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919203189828:android:32bcdb84ffddb70b585811",
+        "android_client_info": {
+          "package_name": "com.example.note_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCClHucPyxW-pLnUDV7jms5MwUloYmzkSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
